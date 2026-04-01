@@ -1,7 +1,7 @@
 # Meeting Calendar Automation Project N8N
 
 ![Meeting Schedule Screenshot](MeetingSchedule.JPG)
-
+![alt text](GoogleMeeting.JPG)
 ## 🎯 Project Overview
 
 This intelligent meeting calendar automation system built on **n8n** streamlines entire meeting workflows from scheduling to follow-up actions. By integrating multiple platforms and leveraging AI capabilities, it transforms how teams manage their time and collaborate effectively.
